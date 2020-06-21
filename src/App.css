@@ -1,0 +1,67 @@
+body {
+  background-image: url('./Images/img.jpg');
+  background-attachment: fixed;
+  background-position: cover;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+Link{
+  text-decoration: none;
+  color: black;
+}
+Link:visited{
+color: black;
+}
+.navbarWrapper{
+  display: grid;
+  grid-template-columns: repeat(5, 1fr);
+  background-color: rgba(23, 19, 236, 0.466);
+}
+.homeSpan{
+  font-family: 'Montserrat Subrayada', sans-serif;
+  grid-column: 1;
+  justify-self: end;
+  width: 30%;
+  font-size: 20px;
+  display:inline-block;
+  border: 1.5px solid rgba(0, 0, 0, 0.534);
+  margin: 2px;
+  border-radius: 9px;
+  text-decoration:  none;
+  font-weight: 300;
+  color: black;
+  text-align: center;
+  transition: all 0.2s;
+  outline-style: none;
+  background-color:rgba(255, 255, 255, 0.322);
+}
+.homeSpan:hover{
+  color: black;
+  box-shadow: 1px 1px 3px black;
+  background-color:white;
+}
+.homeSpan:active{
+  box-shadow: 2px 2px 2px 0px #000000,
+  inset 2px 2px 2px 0px #000000,
+  inset -5px -5px 8px 2px rgba(0,0,0,0.48);
+}
+
+.header{
+  grid-column: 3;
+  justify-self: center;
+  
+  width: 100%;
+  text-align: center;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 28px;
+}
+.headerSmart{
+  grid-column: 3;
+  justify-self: center;
+  width: 100%;
+  text-align: center;
+  font-family: 'Montserrat Subrayada', sans-serif;
+  font-size: 28px;
+  color: #FFFFFF;
+  text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #97f17e, 0 0 30px rgb(119, 245, 84), 0 0 40px rgb(135, 248, 104), 0 0 55px #49FF18, 0 0 75px #49ff18;
+}
