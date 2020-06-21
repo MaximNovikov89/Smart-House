@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Smart-House/static/css/main.f6e8e279.chunk.css",
+    "main.js": "/Smart-House/static/js/main.906965d7.chunk.js",
+    "main.js.map": "/Smart-House/static/js/main.906965d7.chunk.js.map",
+    "runtime-main.js": "/Smart-House/static/js/runtime-main.861f2f76.js",
+    "runtime-main.js.map": "/Smart-House/static/js/runtime-main.861f2f76.js.map",
+    "static/js/2.37a826b8.chunk.js": "/Smart-House/static/js/2.37a826b8.chunk.js",
+    "static/js/2.37a826b8.chunk.js.map": "/Smart-House/static/js/2.37a826b8.chunk.js.map",
+    "index.html": "/Smart-House/index.html",
+    "precache-manifest.850548553d89ca158157b5e9d4007cfb.js": "/Smart-House/precache-manifest.850548553d89ca158157b5e9d4007cfb.js",
+    "service-worker.js": "/Smart-House/service-worker.js",
+    "static/css/main.f6e8e279.chunk.css.map": "/Smart-House/static/css/main.f6e8e279.chunk.css.map",
+    "static/js/2.37a826b8.chunk.js.LICENSE.txt": "/Smart-House/static/js/2.37a826b8.chunk.js.LICENSE.txt",
+    "static/media/HomePage.css": "/Smart-House/static/media/Kitchen.0b571be8.jpg",
+    "static/media/App.css": "/Smart-House/static/media/img.63c5741d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.861f2f76.js",
+    "static/js/2.37a826b8.chunk.js",
+    "static/css/main.f6e8e279.chunk.css",
+    "static/js/main.906965d7.chunk.js"
+  ]
+}
